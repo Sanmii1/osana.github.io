@@ -18,6 +18,6 @@ ___
 <a href="https://www.freepik.com/free-vector/airplane-sky_4955461.htm#fromView=search&page=1&position=2&uuid=db5b1ee6-b924-4f8b-83b2-7efd8d51ee36&query=plane">Image by brgfx on Freepik</a>  
 <a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Gregor Cresnar - Flaticon</a>  
 <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Freepik - Flaticon</a>  
-<a href="https://www.flaticon.com/free-icons/internet" title="internet icons">Internet icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/internet" title="internet icons">Internet icons created by Freepik - Flaticon</a>  
 <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
           
